@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Avril Hunter
+- 👀 I’m interested in full stack software development
+- 🌱 I’m currently training on the Northcoders 13 week intensive software development bootcamp
+- 💞️ I will be working on projects on the course and have several ideas to work on later. 
+- 📫 How to reach me avrilhunter15@gmail.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I play Ultimate Frisbee for Great Britian on the Womens team. We won silver at European Championships 2023!
