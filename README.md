@@ -2,6 +2,7 @@
 - 👀 I’m interested in full stack software development
 - 🌱 I’m currently training on the Northcoders 13 week intensive software development bootcamp
 - 💞️ Completed a news style full stack app - NC News https://nc-news-ah123.netlify.app/
+-  :mag_right: Augmented Reality App created in only 8 days!  https://northcoders.com/project-phase/what-you-looking-app
 - 📫 How to reach me avrilhunter15@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I play Ultimate Frisbee for Great Britian on the Womens team. We won silver at European Championships 2023!
