@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Avril Hunter
-- 👀 I’m interested in full stack software development
-- 🌱 I completed the Northcoders 13 week intensive software development bootcamp in May 2024
+- 👀 Junior DevOps/Platform Engineer
+- 🌱 Experience with CI/CD, Jenkins, Kubernetes, Terraform and Flux
 - 💞️ Completed a news style full stack app - NC News https://nc-news-ah123.netlify.app/
 -  :mag_right: Augmented Reality App created in only 8 days  https://northcoders.com/project-phase/what-you-looking-app
 - 📫 How to reach me avrilhunter15@gmail.com
