@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Avril Hunter
-- 👀 Junior DevOps/Platform Engineer
-- 🌱 Experience with CI/CD, Jenkins, Kubernetes, Terraform and Flux
-- 💞️ Completed a news style full stack app - NC News https://nc-news-ah123.netlify.app/
--  :mag_right: Augmented Reality App created in only 8 days  https://northcoders.com/project-phase/what-you-looking-app
+- 👀 Junior DevOps and Platform Engineer
+- ☁️ AWS Solutions Architect Certified
+- 🌱 Experience with AWS Cloud Infrastructure, CI/CD, Jenkins, Kubernetes and Terraform
+- 💞️ Full stack experience from Northcoders Bootcamp in 2024 - NC News https://nc-news-ah123.netlify.app/
+-  :mag_right: Augmented Reality App https://northcoders.com/project-phase/what-you-looking-app
 - 📫 How to reach me avrilhunter15@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I play Ultimate Frisbee for Great Britian on the Womens team. We won silver at European Championships 2023!
