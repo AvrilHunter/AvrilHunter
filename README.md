@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Avril Hunter
 - 👀 Junior DevOps and Platform Engineer
-- ☁️ AWS Solutions Architect Certified
+- ☁️ AWS Solutions Architect, AI Practitioner and Cloud Practitioner Certified
 - 🌱 Experience with AWS Cloud Infrastructure, CI/CD, Jenkins, Kubernetes and Terraform
 - 💞️ Full stack experience from Northcoders Bootcamp in 2024 - NC News https://nc-news-ah123.netlify.app/
 -  :mag_right: Augmented Reality App https://northcoders.com/project-phase/what-you-looking-app
